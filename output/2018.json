@@ -1,0 +1,1920 @@
+{
+    "Sport": "Rugby Union",
+    "Region": "World",
+    "League": "Super Rugby",
+    "Season": "2018",
+    "Games": [
+        {
+            "Title": "crusaders - lions",
+            "Outcome": "37:18",
+            "Datetime": "saturday, 04 aug 2018, 07:35",
+            "Home": "crusaders",
+            "Away": "lions",
+            "Home Score": "37",
+            "Away Score": "18",
+            "Odds": []
+        },
+        {
+            "Title": "lions - waratahs",
+            "Outcome": "44:26",
+            "Datetime": "saturday, 28 jul 2018, 13:05",
+            "Home": "lions",
+            "Away": "waratahs",
+            "Home Score": "44",
+            "Away Score": "26",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.23",
+                    "Away": "4.25"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.24",
+                    "Away": "4.28"
+                },
+                {
+                    "Book": "Unibet",
+                    "Home": "1.25",
+                    "Away": "4.00"
+                }
+            ]
+        },
+        {
+            "Title": "lions - jaguares",
+            "Outcome": "40:23",
+            "Datetime": "saturday, 21 jul 2018, 13:05",
+            "Home": "lions",
+            "Away": "jaguares",
+            "Home Score": "40",
+            "Away Score": "23",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.23",
+                    "Away": "4.29"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.24",
+                    "Away": "4.33"
+                },
+                {
+                    "Book": "Unibet",
+                    "Home": "1.25",
+                    "Away": "3.95"
+                }
+            ]
+        },
+        {
+            "Title": "crusaders - sharks",
+            "Outcome": "40:10",
+            "Datetime": "saturday, 21 jul 2018, 07:35",
+            "Home": "crusaders",
+            "Away": "sharks",
+            "Home Score": "40",
+            "Away Score": "10",
+            "Odds": [
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.06",
+                    "Away": "10.54"
+                },
+                {
+                    "Book": "Unibet",
+                    "Home": "1.05",
+                    "Away": "9.50"
+                }
+            ]
+        },
+        {
+            "Title": "hurricanes - chiefs",
+            "Outcome": "32:31",
+            "Datetime": "friday, 20 jul 2018, 07:35",
+            "Home": "hurricanes",
+            "Away": "chiefs",
+            "Home Score": "32",
+            "Away Score": "31",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.47",
+                    "Away": "2.71"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.47",
+                    "Away": "2.81"
+                },
+                {
+                    "Book": "Unibet",
+                    "Home": "1.46",
+                    "Away": "2.70"
+                }
+            ]
+        },
+        {
+            "Title": "sharks - jaguares",
+            "Outcome": "20:10",
+            "Datetime": "saturday, 14 jul 2018, 15:15",
+            "Home": "sharks",
+            "Away": "jaguares",
+            "Home Score": "20",
+            "Away Score": "10",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.28",
+                    "Away": "3.80"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.29",
+                    "Away": "3.84"
+                }
+            ]
+        },
+        {
+            "Title": "waratahs - brumbies",
+            "Outcome": "31:40",
+            "Datetime": "saturday, 14 jul 2018, 09:45",
+            "Home": "waratahs",
+            "Away": "brumbies",
+            "Home Score": "31",
+            "Away Score": "40",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.31",
+                    "Away": "3.52"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.32",
+                    "Away": "3.54"
+                }
+            ]
+        },
+        {
+            "Title": "highlanders - rebels",
+            "Outcome": "43:37",
+            "Datetime": "saturday, 14 jul 2018, 05:15",
+            "Home": "highlanders",
+            "Away": "rebels",
+            "Home Score": "43",
+            "Away Score": "37",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.19",
+                    "Away": "4.84"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.20",
+                    "Away": "4.88"
+                }
+            ]
+        },
+        {
+            "Title": "reds - sunwolves",
+            "Outcome": "48:27",
+            "Datetime": "friday, 13 jul 2018, 09:45",
+            "Home": "reds",
+            "Away": "sunwolves",
+            "Home Score": "48",
+            "Away Score": "27",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.24",
+                    "Away": "4.16"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.25",
+                    "Away": "4.19"
+                }
+            ]
+        },
+        {
+            "Title": "stormers - sharks",
+            "Outcome": "27:16",
+            "Datetime": "saturday, 07 jul 2018, 15:15",
+            "Home": "stormers",
+            "Away": "sharks",
+            "Home Score": "27",
+            "Away Score": "16",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.91",
+                    "Away": "1.91"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.93",
+                    "Away": "1.93"
+                }
+            ]
+        },
+        {
+            "Title": "waratahs - sunwolves",
+            "Outcome": "77:25",
+            "Datetime": "saturday, 07 jul 2018, 09:40",
+            "Home": "waratahs",
+            "Away": "sunwolves",
+            "Home Score": "77",
+            "Away Score": "25",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.08",
+                    "Away": "8.54"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.08",
+                    "Away": "8.58"
+                }
+            ]
+        },
+        {
+            "Title": "chiefs - brumbies",
+            "Outcome": "24:19",
+            "Datetime": "saturday, 07 jul 2018, 05:15",
+            "Home": "chiefs",
+            "Away": "brumbies",
+            "Home Score": "24",
+            "Away Score": "19",
+            "Odds": []
+        },
+        {
+            "Title": "reds - rebels",
+            "Outcome": "37:23",
+            "Datetime": "friday, 06 jul 2018, 09:45",
+            "Home": "reds",
+            "Away": "rebels",
+            "Home Score": "37",
+            "Away Score": "23",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "2.50",
+                    "Away": "1.54"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "2.53",
+                    "Away": "1.56"
+                }
+            ]
+        },
+        {
+            "Title": "jaguares - stormers",
+            "Outcome": "25:14",
+            "Datetime": "saturday, 30 jun 2018, 17:40",
+            "Home": "jaguares",
+            "Away": "stormers",
+            "Home Score": "25",
+            "Away Score": "14",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.40",
+                    "Away": "3.02"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.41",
+                    "Away": "3.05"
+                }
+            ]
+        },
+        {
+            "Title": "sunwolves - bulls",
+            "Outcome": "42:37",
+            "Datetime": "saturday, 30 jun 2018, 11:55",
+            "Home": "sunwolves",
+            "Away": "bulls",
+            "Home Score": "42",
+            "Away Score": "37",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "3.47",
+                    "Away": "1.32"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "3.50",
+                    "Away": "1.33"
+                }
+            ]
+        },
+        {
+            "Title": "highlanders - chiefs",
+            "Outcome": "22:45",
+            "Datetime": "saturday, 30 jun 2018, 07:35",
+            "Home": "highlanders",
+            "Away": "chiefs",
+            "Home Score": "22",
+            "Away Score": "45",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.52",
+                    "Away": "2.57"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.53",
+                    "Away": "2.58"
+                }
+            ]
+        },
+        {
+            "Title": "rebels - waratahs",
+            "Outcome": "26:31",
+            "Datetime": "friday, 29 jun 2018, 09:45",
+            "Home": "rebels",
+            "Away": "waratahs",
+            "Home Score": "26",
+            "Away Score": "31",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "2.28",
+                    "Away": "1.64"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "2.30",
+                    "Away": "1.66"
+                }
+            ]
+        },
+        {
+            "Title": "brumbies - sunwolves",
+            "Outcome": "41:31",
+            "Datetime": "sunday, 03 jun 2018, 06:05",
+            "Home": "brumbies",
+            "Away": "sunwolves",
+            "Home Score": "41",
+            "Away Score": "31",
+            "Odds": [
+                {
+                    "Book": "Unibet",
+                    "Home": "1.03",
+                    "Away": "13.00"
+                }
+            ]
+        },
+        {
+            "Title": "reds - waratahs",
+            "Outcome": "41:52",
+            "Datetime": "saturday, 02 jun 2018, 09:45",
+            "Home": "reds",
+            "Away": "waratahs",
+            "Home Score": "41",
+            "Away Score": "52",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "3.17",
+                    "Away": "1.37"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "3.20",
+                    "Away": "1.38"
+                }
+            ]
+        },
+        {
+            "Title": "blues - rebels",
+            "Outcome": "10:20",
+            "Datetime": "saturday, 02 jun 2018, 05:15",
+            "Home": "blues",
+            "Away": "rebels",
+            "Home Score": "10",
+            "Away Score": "20",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.33",
+                    "Away": "3.37"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.34",
+                    "Away": "3.39"
+                }
+            ]
+        },
+        {
+            "Title": "highlanders - hurricanes",
+            "Outcome": "30:14",
+            "Datetime": "friday, 01 jun 2018, 07:35",
+            "Home": "highlanders",
+            "Away": "hurricanes",
+            "Home Score": "30",
+            "Away Score": "14",
+            "Odds": []
+        },
+        {
+            "Title": "stormers - lions",
+            "Outcome": "23:26",
+            "Datetime": "saturday, 26 may 2018, 15:15",
+            "Home": "stormers",
+            "Away": "lions",
+            "Home Score": "23",
+            "Away Score": "26",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "2.34",
+                    "Away": "1.61"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "2.36",
+                    "Away": "1.63"
+                }
+            ]
+        },
+        {
+            "Title": "reds - highlanders",
+            "Outcome": "15:18",
+            "Datetime": "saturday, 26 may 2018, 09:45",
+            "Home": "reds",
+            "Away": "highlanders",
+            "Home Score": "15",
+            "Away Score": "18",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "3.80",
+                    "Away": "1.28"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "3.84",
+                    "Away": "1.29"
+                }
+            ]
+        },
+        {
+            "Title": "jaguares - sharks",
+            "Outcome": "29:13",
+            "Datetime": "friday, 25 may 2018, 19:40",
+            "Home": "jaguares",
+            "Away": "sharks",
+            "Home Score": "29",
+            "Away Score": "13",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.41",
+                    "Away": "2.98"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.42",
+                    "Away": "3.01"
+                }
+            ]
+        },
+        {
+            "Title": "crusaders - hurricanes",
+            "Outcome": "24:13",
+            "Datetime": "friday, 25 may 2018, 07:35",
+            "Home": "crusaders",
+            "Away": "hurricanes",
+            "Home Score": "24",
+            "Away Score": "13",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.82",
+                    "Away": "2.01"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.85",
+                    "Away": "2.00"
+                }
+            ]
+        },
+        {
+            "Title": "jaguares - bulls",
+            "Outcome": "54:24",
+            "Datetime": "saturday, 19 may 2018, 21:40",
+            "Home": "jaguares",
+            "Away": "bulls",
+            "Home Score": "54",
+            "Away Score": "24",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.38",
+                    "Away": "3.10"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.39",
+                    "Away": "3.12"
+                }
+            ]
+        },
+        {
+            "Title": "sharks - chiefs",
+            "Outcome": "28:24",
+            "Datetime": "saturday, 19 may 2018, 13:05",
+            "Home": "sharks",
+            "Away": "chiefs",
+            "Home Score": "28",
+            "Away Score": "24",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.31",
+                    "Away": "3.51"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.32",
+                    "Away": "3.53"
+                }
+            ]
+        },
+        {
+            "Title": "blues - crusaders",
+            "Outcome": "24:32",
+            "Datetime": "saturday, 19 may 2018, 07:35",
+            "Home": "blues",
+            "Away": "crusaders",
+            "Home Score": "24",
+            "Away Score": "32",
+            "Odds": []
+        },
+        {
+            "Title": "hurricanes - reds",
+            "Outcome": "38:34",
+            "Datetime": "friday, 18 may 2018, 07:35",
+            "Home": "hurricanes",
+            "Away": "reds",
+            "Home Score": "38",
+            "Away Score": "34",
+            "Odds": [
+                {
+                    "Book": "Unibet",
+                    "Home": "1.01",
+                    "Away": "16.00"
+                }
+            ]
+        },
+        {
+            "Title": "bulls - sharks",
+            "Outcome": "39:33",
+            "Datetime": "saturday, 12 may 2018, 15:15",
+            "Home": "bulls",
+            "Away": "sharks",
+            "Home Score": "39",
+            "Away Score": "33",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.54",
+                    "Away": "2.52"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.55",
+                    "Away": "2.54"
+                }
+            ]
+        },
+        {
+            "Title": "brumbies - rebels",
+            "Outcome": "24:27",
+            "Datetime": "saturday, 12 may 2018, 09:45",
+            "Home": "brumbies",
+            "Away": "rebels",
+            "Home Score": "24",
+            "Away Score": "27",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.41",
+                    "Away": "2.94"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.43",
+                    "Away": "2.97"
+                }
+            ]
+        },
+        {
+            "Title": "crusaders - lions",
+            "Outcome": "37:18",
+            "Datetime": "saturday, 04 aug 2018, 07:35",
+            "Home": "crusaders",
+            "Away": "lions",
+            "Home Score": "37",
+            "Away Score": "18",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.10",
+                    "Away": "7.18"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.11",
+                    "Away": "7.24"
+                },
+                {
+                    "Book": "Unibet",
+                    "Home": "1.11",
+                    "Away": "6.50"
+                }
+            ]
+        },
+        {
+            "Title": "lions - waratahs",
+            "Outcome": "44:26",
+            "Datetime": "saturday, 28 jul 2018, 13:05",
+            "Home": "lions",
+            "Away": "waratahs",
+            "Home Score": "44",
+            "Away Score": "26",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.23",
+                    "Away": "4.25"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.24",
+                    "Away": "4.28"
+                },
+                {
+                    "Book": "Unibet",
+                    "Home": "1.25",
+                    "Away": "4.00"
+                }
+            ]
+        },
+        {
+            "Title": "lions - jaguares",
+            "Outcome": "40:23",
+            "Datetime": "saturday, 21 jul 2018, 13:05",
+            "Home": "lions",
+            "Away": "jaguares",
+            "Home Score": "40",
+            "Away Score": "23",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.23",
+                    "Away": "4.29"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.24",
+                    "Away": "4.33"
+                },
+                {
+                    "Book": "Unibet",
+                    "Home": "1.25",
+                    "Away": "3.95"
+                }
+            ]
+        },
+        {
+            "Title": "crusaders - sharks",
+            "Outcome": "40:10",
+            "Datetime": "saturday, 21 jul 2018, 07:35",
+            "Home": "crusaders",
+            "Away": "sharks",
+            "Home Score": "40",
+            "Away Score": "10",
+            "Odds": [
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.06",
+                    "Away": "10.54"
+                },
+                {
+                    "Book": "Unibet",
+                    "Home": "1.05",
+                    "Away": "9.50"
+                }
+            ]
+        },
+        {
+            "Title": "hurricanes - chiefs",
+            "Outcome": "32:31",
+            "Datetime": "friday, 20 jul 2018, 07:35",
+            "Home": "hurricanes",
+            "Away": "chiefs",
+            "Home Score": "32",
+            "Away Score": "31",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.47",
+                    "Away": "2.71"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.47",
+                    "Away": "2.81"
+                },
+                {
+                    "Book": "Unibet",
+                    "Home": "1.46",
+                    "Away": "2.70"
+                }
+            ]
+        },
+        {
+            "Title": "sharks - jaguares",
+            "Outcome": "20:10",
+            "Datetime": "saturday, 14 jul 2018, 15:15",
+            "Home": "sharks",
+            "Away": "jaguares",
+            "Home Score": "20",
+            "Away Score": "10",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.28",
+                    "Away": "3.80"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.29",
+                    "Away": "3.84"
+                }
+            ]
+        },
+        {
+            "Title": "waratahs - brumbies",
+            "Outcome": "31:40",
+            "Datetime": "saturday, 14 jul 2018, 09:45",
+            "Home": "waratahs",
+            "Away": "brumbies",
+            "Home Score": "31",
+            "Away Score": "40",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.31",
+                    "Away": "3.52"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.32",
+                    "Away": "3.54"
+                }
+            ]
+        },
+        {
+            "Title": "highlanders - rebels",
+            "Outcome": "43:37",
+            "Datetime": "saturday, 14 jul 2018, 05:15",
+            "Home": "highlanders",
+            "Away": "rebels",
+            "Home Score": "43",
+            "Away Score": "37",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.19",
+                    "Away": "4.84"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.20",
+                    "Away": "4.88"
+                }
+            ]
+        },
+        {
+            "Title": "reds - sunwolves",
+            "Outcome": "48:27",
+            "Datetime": "friday, 13 jul 2018, 09:45",
+            "Home": "reds",
+            "Away": "sunwolves",
+            "Home Score": "48",
+            "Away Score": "27",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.24",
+                    "Away": "4.16"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.25",
+                    "Away": "4.19"
+                }
+            ]
+        },
+        {
+            "Title": "stormers - sharks",
+            "Outcome": "27:16",
+            "Datetime": "saturday, 07 jul 2018, 15:15",
+            "Home": "stormers",
+            "Away": "sharks",
+            "Home Score": "27",
+            "Away Score": "16",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.91",
+                    "Away": "1.91"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.93",
+                    "Away": "1.93"
+                }
+            ]
+        },
+        {
+            "Title": "waratahs - sunwolves",
+            "Outcome": "77:25",
+            "Datetime": "saturday, 07 jul 2018, 09:40",
+            "Home": "waratahs",
+            "Away": "sunwolves",
+            "Home Score": "77",
+            "Away Score": "25",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.08",
+                    "Away": "8.54"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.08",
+                    "Away": "8.58"
+                }
+            ]
+        },
+        {
+            "Title": "chiefs - brumbies",
+            "Outcome": "24:19",
+            "Datetime": "saturday, 07 jul 2018, 05:15",
+            "Home": "chiefs",
+            "Away": "brumbies",
+            "Home Score": "24",
+            "Away Score": "19",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.15",
+                    "Away": "5.68"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.16",
+                    "Away": "5.74"
+                }
+            ]
+        },
+        {
+            "Title": "reds - rebels",
+            "Outcome": "37:23",
+            "Datetime": "friday, 06 jul 2018, 09:45",
+            "Home": "reds",
+            "Away": "rebels",
+            "Home Score": "37",
+            "Away Score": "23",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "2.50",
+                    "Away": "1.54"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "2.53",
+                    "Away": "1.56"
+                }
+            ]
+        },
+        {
+            "Title": "jaguares - stormers",
+            "Outcome": "25:14",
+            "Datetime": "saturday, 30 jun 2018, 17:40",
+            "Home": "jaguares",
+            "Away": "stormers",
+            "Home Score": "25",
+            "Away Score": "14",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.40",
+                    "Away": "3.02"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.41",
+                    "Away": "3.05"
+                }
+            ]
+        },
+        {
+            "Title": "sunwolves - bulls",
+            "Outcome": "42:37",
+            "Datetime": "saturday, 30 jun 2018, 11:55",
+            "Home": "sunwolves",
+            "Away": "bulls",
+            "Home Score": "42",
+            "Away Score": "37",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "3.47",
+                    "Away": "1.32"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "3.50",
+                    "Away": "1.33"
+                }
+            ]
+        },
+        {
+            "Title": "highlanders - chiefs",
+            "Outcome": "22:45",
+            "Datetime": "saturday, 30 jun 2018, 07:35",
+            "Home": "highlanders",
+            "Away": "chiefs",
+            "Home Score": "22",
+            "Away Score": "45",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.52",
+                    "Away": "2.57"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.53",
+                    "Away": "2.58"
+                }
+            ]
+        },
+        {
+            "Title": "rebels - waratahs",
+            "Outcome": "26:31",
+            "Datetime": "friday, 29 jun 2018, 09:45",
+            "Home": "rebels",
+            "Away": "waratahs",
+            "Home Score": "26",
+            "Away Score": "31",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "2.28",
+                    "Away": "1.64"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "2.30",
+                    "Away": "1.66"
+                }
+            ]
+        },
+        {
+            "Title": "brumbies - sunwolves",
+            "Outcome": "41:31",
+            "Datetime": "sunday, 03 jun 2018, 06:05",
+            "Home": "brumbies",
+            "Away": "sunwolves",
+            "Home Score": "41",
+            "Away Score": "31",
+            "Odds": [
+                {
+                    "Book": "Unibet",
+                    "Home": "1.03",
+                    "Away": "13.00"
+                }
+            ]
+        },
+        {
+            "Title": "reds - waratahs",
+            "Outcome": "41:52",
+            "Datetime": "saturday, 02 jun 2018, 09:45",
+            "Home": "reds",
+            "Away": "waratahs",
+            "Home Score": "41",
+            "Away Score": "52",
+            "Odds": []
+        },
+        {
+            "Title": "blues - rebels",
+            "Outcome": "10:20",
+            "Datetime": "saturday, 02 jun 2018, 05:15",
+            "Home": "blues",
+            "Away": "rebels",
+            "Home Score": "10",
+            "Away Score": "20",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.33",
+                    "Away": "3.37"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.34",
+                    "Away": "3.39"
+                }
+            ]
+        },
+        {
+            "Title": "highlanders - hurricanes",
+            "Outcome": "30:14",
+            "Datetime": "friday, 01 jun 2018, 07:35",
+            "Home": "highlanders",
+            "Away": "hurricanes",
+            "Home Score": "30",
+            "Away Score": "14",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "2.41",
+                    "Away": "1.58"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "2.43",
+                    "Away": "1.60"
+                }
+            ]
+        },
+        {
+            "Title": "stormers - lions",
+            "Outcome": "23:26",
+            "Datetime": "saturday, 26 may 2018, 15:15",
+            "Home": "stormers",
+            "Away": "lions",
+            "Home Score": "23",
+            "Away Score": "26",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "2.34",
+                    "Away": "1.61"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "2.36",
+                    "Away": "1.63"
+                }
+            ]
+        },
+        {
+            "Title": "reds - highlanders",
+            "Outcome": "15:18",
+            "Datetime": "saturday, 26 may 2018, 09:45",
+            "Home": "reds",
+            "Away": "highlanders",
+            "Home Score": "15",
+            "Away Score": "18",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "3.80",
+                    "Away": "1.28"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "3.84",
+                    "Away": "1.29"
+                }
+            ]
+        },
+        {
+            "Title": "jaguares - sharks",
+            "Outcome": "29:13",
+            "Datetime": "friday, 25 may 2018, 19:40",
+            "Home": "jaguares",
+            "Away": "sharks",
+            "Home Score": "29",
+            "Away Score": "13",
+            "Odds": []
+        },
+        {
+            "Title": "crusaders - hurricanes",
+            "Outcome": "24:13",
+            "Datetime": "friday, 25 may 2018, 07:35",
+            "Home": "crusaders",
+            "Away": "hurricanes",
+            "Home Score": "24",
+            "Away Score": "13",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.82",
+                    "Away": "2.01"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.85",
+                    "Away": "2.00"
+                }
+            ]
+        },
+        {
+            "Title": "jaguares - bulls",
+            "Outcome": "54:24",
+            "Datetime": "saturday, 19 may 2018, 21:40",
+            "Home": "jaguares",
+            "Away": "bulls",
+            "Home Score": "54",
+            "Away Score": "24",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.38",
+                    "Away": "3.10"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.39",
+                    "Away": "3.12"
+                }
+            ]
+        },
+        {
+            "Title": "sharks - chiefs",
+            "Outcome": "28:24",
+            "Datetime": "saturday, 19 may 2018, 13:05",
+            "Home": "sharks",
+            "Away": "chiefs",
+            "Home Score": "28",
+            "Away Score": "24",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.31",
+                    "Away": "3.51"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.32",
+                    "Away": "3.53"
+                }
+            ]
+        },
+        {
+            "Title": "blues - crusaders",
+            "Outcome": "24:32",
+            "Datetime": "saturday, 19 may 2018, 07:35",
+            "Home": "blues",
+            "Away": "crusaders",
+            "Home Score": "24",
+            "Away Score": "32",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "4.50",
+                    "Away": "1.21"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "4.53",
+                    "Away": "1.22"
+                }
+            ]
+        },
+        {
+            "Title": "hurricanes - reds",
+            "Outcome": "38:34",
+            "Datetime": "friday, 18 may 2018, 07:35",
+            "Home": "hurricanes",
+            "Away": "reds",
+            "Home Score": "38",
+            "Away Score": "34",
+            "Odds": [
+                {
+                    "Book": "Unibet",
+                    "Home": "1.01",
+                    "Away": "16.00"
+                }
+            ]
+        },
+        {
+            "Title": "bulls - sharks",
+            "Outcome": "39:33",
+            "Datetime": "saturday, 12 may 2018, 15:15",
+            "Home": "bulls",
+            "Away": "sharks",
+            "Home Score": "39",
+            "Away Score": "33",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.54",
+                    "Away": "2.52"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.55",
+                    "Away": "2.54"
+                }
+            ]
+        },
+        {
+            "Title": "brumbies - rebels",
+            "Outcome": "24:27",
+            "Datetime": "saturday, 12 may 2018, 09:45",
+            "Home": "brumbies",
+            "Away": "rebels",
+            "Home Score": "24",
+            "Away Score": "27",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.41",
+                    "Away": "2.94"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.43",
+                    "Away": "2.97"
+                }
+            ]
+        },
+        {
+            "Title": "crusaders - lions",
+            "Outcome": "37:18",
+            "Datetime": "saturday, 04 aug 2018, 07:35",
+            "Home": "crusaders",
+            "Away": "lions",
+            "Home Score": "37",
+            "Away Score": "18",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.10",
+                    "Away": "7.18"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.11",
+                    "Away": "7.24"
+                },
+                {
+                    "Book": "Unibet",
+                    "Home": "1.11",
+                    "Away": "6.50"
+                }
+            ]
+        },
+        {
+            "Title": "lions - waratahs",
+            "Outcome": "44:26",
+            "Datetime": "saturday, 28 jul 2018, 13:05",
+            "Home": "lions",
+            "Away": "waratahs",
+            "Home Score": "44",
+            "Away Score": "26",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.23",
+                    "Away": "4.25"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.24",
+                    "Away": "4.28"
+                },
+                {
+                    "Book": "Unibet",
+                    "Home": "1.25",
+                    "Away": "4.00"
+                }
+            ]
+        },
+        {
+            "Title": "lions - jaguares",
+            "Outcome": "40:23",
+            "Datetime": "saturday, 21 jul 2018, 13:05",
+            "Home": "lions",
+            "Away": "jaguares",
+            "Home Score": "40",
+            "Away Score": "23",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.23",
+                    "Away": "4.29"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.24",
+                    "Away": "4.33"
+                },
+                {
+                    "Book": "Unibet",
+                    "Home": "1.25",
+                    "Away": "3.95"
+                }
+            ]
+        },
+        {
+            "Title": "crusaders - sharks",
+            "Outcome": "40:10",
+            "Datetime": "saturday, 21 jul 2018, 07:35",
+            "Home": "crusaders",
+            "Away": "sharks",
+            "Home Score": "40",
+            "Away Score": "10",
+            "Odds": [
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.06",
+                    "Away": "10.54"
+                },
+                {
+                    "Book": "Unibet",
+                    "Home": "1.05",
+                    "Away": "9.50"
+                }
+            ]
+        },
+        {
+            "Title": "hurricanes - chiefs",
+            "Outcome": "32:31",
+            "Datetime": "friday, 20 jul 2018, 07:35",
+            "Home": "hurricanes",
+            "Away": "chiefs",
+            "Home Score": "32",
+            "Away Score": "31",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.47",
+                    "Away": "2.71"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.47",
+                    "Away": "2.81"
+                },
+                {
+                    "Book": "Unibet",
+                    "Home": "1.46",
+                    "Away": "2.70"
+                }
+            ]
+        },
+        {
+            "Title": "sharks - jaguares",
+            "Outcome": "20:10",
+            "Datetime": "saturday, 14 jul 2018, 15:15",
+            "Home": "sharks",
+            "Away": "jaguares",
+            "Home Score": "20",
+            "Away Score": "10",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.28",
+                    "Away": "3.80"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.29",
+                    "Away": "3.84"
+                }
+            ]
+        },
+        {
+            "Title": "waratahs - brumbies",
+            "Outcome": "31:40",
+            "Datetime": "saturday, 14 jul 2018, 09:45",
+            "Home": "waratahs",
+            "Away": "brumbies",
+            "Home Score": "31",
+            "Away Score": "40",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.31",
+                    "Away": "3.52"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.32",
+                    "Away": "3.54"
+                }
+            ]
+        },
+        {
+            "Title": "highlanders - rebels",
+            "Outcome": "43:37",
+            "Datetime": "saturday, 14 jul 2018, 05:15",
+            "Home": "highlanders",
+            "Away": "rebels",
+            "Home Score": "43",
+            "Away Score": "37",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.19",
+                    "Away": "4.84"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.20",
+                    "Away": "4.88"
+                }
+            ]
+        },
+        {
+            "Title": "reds - sunwolves",
+            "Outcome": "48:27",
+            "Datetime": "friday, 13 jul 2018, 09:45",
+            "Home": "reds",
+            "Away": "sunwolves",
+            "Home Score": "48",
+            "Away Score": "27",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.24",
+                    "Away": "4.16"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.25",
+                    "Away": "4.19"
+                }
+            ]
+        },
+        {
+            "Title": "stormers - sharks",
+            "Outcome": "27:16",
+            "Datetime": "saturday, 07 jul 2018, 15:15",
+            "Home": "stormers",
+            "Away": "sharks",
+            "Home Score": "27",
+            "Away Score": "16",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.91",
+                    "Away": "1.91"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.93",
+                    "Away": "1.93"
+                }
+            ]
+        },
+        {
+            "Title": "waratahs - sunwolves",
+            "Outcome": "77:25",
+            "Datetime": "saturday, 07 jul 2018, 09:40",
+            "Home": "waratahs",
+            "Away": "sunwolves",
+            "Home Score": "77",
+            "Away Score": "25",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.08",
+                    "Away": "8.54"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.08",
+                    "Away": "8.58"
+                }
+            ]
+        },
+        {
+            "Title": "chiefs - brumbies",
+            "Outcome": "24:19",
+            "Datetime": "saturday, 07 jul 2018, 05:15",
+            "Home": "chiefs",
+            "Away": "brumbies",
+            "Home Score": "24",
+            "Away Score": "19",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.15",
+                    "Away": "5.68"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.16",
+                    "Away": "5.74"
+                }
+            ]
+        },
+        {
+            "Title": "reds - rebels",
+            "Outcome": "37:23",
+            "Datetime": "friday, 06 jul 2018, 09:45",
+            "Home": "reds",
+            "Away": "rebels",
+            "Home Score": "37",
+            "Away Score": "23",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "2.50",
+                    "Away": "1.54"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "2.53",
+                    "Away": "1.56"
+                }
+            ]
+        },
+        {
+            "Title": "jaguares - stormers",
+            "Outcome": "25:14",
+            "Datetime": "saturday, 30 jun 2018, 17:40",
+            "Home": "jaguares",
+            "Away": "stormers",
+            "Home Score": "25",
+            "Away Score": "14",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.40",
+                    "Away": "3.02"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.41",
+                    "Away": "3.05"
+                }
+            ]
+        },
+        {
+            "Title": "sunwolves - bulls",
+            "Outcome": "42:37",
+            "Datetime": "saturday, 30 jun 2018, 11:55",
+            "Home": "sunwolves",
+            "Away": "bulls",
+            "Home Score": "42",
+            "Away Score": "37",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "3.47",
+                    "Away": "1.32"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "3.50",
+                    "Away": "1.33"
+                }
+            ]
+        },
+        {
+            "Title": "highlanders - chiefs",
+            "Outcome": "22:45",
+            "Datetime": "saturday, 30 jun 2018, 07:35",
+            "Home": "highlanders",
+            "Away": "chiefs",
+            "Home Score": "22",
+            "Away Score": "45",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.52",
+                    "Away": "2.57"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.53",
+                    "Away": "2.58"
+                }
+            ]
+        },
+        {
+            "Title": "rebels - waratahs",
+            "Outcome": "26:31",
+            "Datetime": "friday, 29 jun 2018, 09:45",
+            "Home": "rebels",
+            "Away": "waratahs",
+            "Home Score": "26",
+            "Away Score": "31",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "2.28",
+                    "Away": "1.64"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "2.30",
+                    "Away": "1.66"
+                }
+            ]
+        },
+        {
+            "Title": "brumbies - sunwolves",
+            "Outcome": "41:31",
+            "Datetime": "sunday, 03 jun 2018, 06:05",
+            "Home": "brumbies",
+            "Away": "sunwolves",
+            "Home Score": "41",
+            "Away Score": "31",
+            "Odds": [
+                {
+                    "Book": "Unibet",
+                    "Home": "1.03",
+                    "Away": "13.00"
+                }
+            ]
+        },
+        {
+            "Title": "reds - waratahs",
+            "Outcome": "41:52",
+            "Datetime": "saturday, 02 jun 2018, 09:45",
+            "Home": "reds",
+            "Away": "waratahs",
+            "Home Score": "41",
+            "Away Score": "52",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "3.17",
+                    "Away": "1.37"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "3.20",
+                    "Away": "1.38"
+                }
+            ]
+        },
+        {
+            "Title": "blues - rebels",
+            "Outcome": "10:20",
+            "Datetime": "saturday, 02 jun 2018, 05:15",
+            "Home": "blues",
+            "Away": "rebels",
+            "Home Score": "10",
+            "Away Score": "20",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.33",
+                    "Away": "3.37"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.34",
+                    "Away": "3.39"
+                }
+            ]
+        },
+        {
+            "Title": "highlanders - hurricanes",
+            "Outcome": "30:14",
+            "Datetime": "friday, 01 jun 2018, 07:35",
+            "Home": "highlanders",
+            "Away": "hurricanes",
+            "Home Score": "30",
+            "Away Score": "14",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "2.41",
+                    "Away": "1.58"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "2.43",
+                    "Away": "1.60"
+                }
+            ]
+        },
+        {
+            "Title": "stormers - lions",
+            "Outcome": "23:26",
+            "Datetime": "saturday, 26 may 2018, 15:15",
+            "Home": "stormers",
+            "Away": "lions",
+            "Home Score": "23",
+            "Away Score": "26",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "2.34",
+                    "Away": "1.61"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "2.36",
+                    "Away": "1.63"
+                }
+            ]
+        },
+        {
+            "Title": "reds - highlanders",
+            "Outcome": "15:18",
+            "Datetime": "saturday, 26 may 2018, 09:45",
+            "Home": "reds",
+            "Away": "highlanders",
+            "Home Score": "15",
+            "Away Score": "18",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "3.80",
+                    "Away": "1.28"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "3.84",
+                    "Away": "1.29"
+                }
+            ]
+        },
+        {
+            "Title": "jaguares - sharks",
+            "Outcome": "29:13",
+            "Datetime": "friday, 25 may 2018, 19:40",
+            "Home": "jaguares",
+            "Away": "sharks",
+            "Home Score": "29",
+            "Away Score": "13",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.41",
+                    "Away": "2.98"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.42",
+                    "Away": "3.01"
+                }
+            ]
+        },
+        {
+            "Title": "crusaders - hurricanes",
+            "Outcome": "24:13",
+            "Datetime": "friday, 25 may 2018, 07:35",
+            "Home": "crusaders",
+            "Away": "hurricanes",
+            "Home Score": "24",
+            "Away Score": "13",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.82",
+                    "Away": "2.01"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.85",
+                    "Away": "2.00"
+                }
+            ]
+        },
+        {
+            "Title": "jaguares - bulls",
+            "Outcome": "54:24",
+            "Datetime": "saturday, 19 may 2018, 21:40",
+            "Home": "jaguares",
+            "Away": "bulls",
+            "Home Score": "54",
+            "Away Score": "24",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.38",
+                    "Away": "3.10"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.39",
+                    "Away": "3.12"
+                }
+            ]
+        },
+        {
+            "Title": "sharks - chiefs",
+            "Outcome": "28:24",
+            "Datetime": "saturday, 19 may 2018, 13:05",
+            "Home": "sharks",
+            "Away": "chiefs",
+            "Home Score": "28",
+            "Away Score": "24",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.31",
+                    "Away": "3.51"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.32",
+                    "Away": "3.53"
+                }
+            ]
+        },
+        {
+            "Title": "blues - crusaders",
+            "Outcome": "24:32",
+            "Datetime": "saturday, 19 may 2018, 07:35",
+            "Home": "blues",
+            "Away": "crusaders",
+            "Home Score": "24",
+            "Away Score": "32",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "4.50",
+                    "Away": "1.21"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "4.53",
+                    "Away": "1.22"
+                }
+            ]
+        },
+        {
+            "Title": "hurricanes - reds",
+            "Outcome": "38:34",
+            "Datetime": "friday, 18 may 2018, 07:35",
+            "Home": "hurricanes",
+            "Away": "reds",
+            "Home Score": "38",
+            "Away Score": "34",
+            "Odds": [
+                {
+                    "Book": "Unibet",
+                    "Home": "1.01",
+                    "Away": "16.00"
+                }
+            ]
+        },
+        {
+            "Title": "bulls - sharks",
+            "Outcome": "39:33",
+            "Datetime": "saturday, 12 may 2018, 15:15",
+            "Home": "bulls",
+            "Away": "sharks",
+            "Home Score": "39",
+            "Away Score": "33",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.54",
+                    "Away": "2.52"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.55",
+                    "Away": "2.54"
+                }
+            ]
+        },
+        {
+            "Title": "brumbies - rebels",
+            "Outcome": "24:27",
+            "Datetime": "saturday, 12 may 2018, 09:45",
+            "Home": "brumbies",
+            "Away": "rebels",
+            "Home Score": "24",
+            "Away Score": "27",
+            "Odds": [
+                {
+                    "Book": "18bet",
+                    "Home": "1.41",
+                    "Away": "2.94"
+                },
+                {
+                    "Book": "Pinnacle",
+                    "Home": "1.43",
+                    "Away": "2.97"
+                }
+            ]
+        }
+    ]
+}

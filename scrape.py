@@ -4,7 +4,7 @@ import json
 import re
 from datetime import datetime
 
-# Get info from original page
+# Get Meta information from original page
 def get_tournament_data(driver):
     breadcrumb = driver.find_elements_by_xpath("//div[@id='breadcrumb']//a")
     league = breadcrumb[3].text
@@ -23,7 +23,8 @@ def get_tournament_data(driver):
         "Games": []
     }
 
-# Get the pagination from the intial page, and create a unique list of the other pages from the same season
+# Get the pagination from the intial page, 
+# and create a unique list of the other pages from the same season
 def get_pages(driver):
     urls = []
     linkElements = driver.find_elements_by_xpath("//div[@id='pagination']//a")
@@ -37,7 +38,8 @@ def get_games(driver, urls):
     games = []
     for url in urls:
         driver.get(url)
-        gameLinks = driver.find_elements_by_xpath("//table[@id='tournamentTable']//tr[@class='odd deactivate']//td[@class='name table-participant']//a")
+        gameLinks = driver.find_elements_by_xpath(
+            "//table[@id='tournamentTable']//tr[@class='odd deactivate']//td[@class='name table-participant']//a")
         for link in gameLinks:
             games.append(link.get_attribute('href'))
     return games
@@ -59,10 +61,10 @@ def get_odds(driver, url):
 
     datetime  = driver.find_element_by_xpath("//p[contains(@class, 'date datet')]").text
 
-    rows = driver.find_elements_by_xpath("//div[@id='odds-data-table']//table[contains(@class,'table-main')]//tbody//tr[contains(@class,'lo')]")
+    rows = driver.find_elements_by_xpath(
+        "//div[@id='odds-data-table']//table[contains(@class,'table-main')]//tbody//tr[contains(@class,'lo')]")
     
     odds = []
-
     for row in rows:
         bookmaker_name = row.find_element_by_xpath(".//a[@class='name']").text
         tds = row.find_elements_by_xpath(".//td[contains(@class, 'odds')]")
@@ -72,8 +74,6 @@ def get_odds(driver, url):
             "Away": tds[1].text
         }
         odds.append(odd)
-
-    
     return {
         "Title": title.lower(),
         "Outcome": score,
@@ -85,13 +85,8 @@ def get_odds(driver, url):
         "Odds": odds
     }
 
-
-
-
-
-
 def main():
-    driver = webdriver.Chrome('chromedriver')    
+    driver = webdriver.Chrome('./chromedriver')    
     driver.implicitly_wait(10)
     driver.get('https://www.oddsportal.com/rugby-union/world/super-rugby-2018/results/')
     results = get_tournament_data(driver)
