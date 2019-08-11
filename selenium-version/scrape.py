@@ -1,18 +1,42 @@
 #Importing packages
 from selenium import webdriver
-import pandas as pd
 import json
+import re
+from datetime import datetime
+
+# Get info from original page
+def get_tournament_data(driver):
+    breadcrumb = driver.find_elements_by_xpath("//div[@id='breadcrumb']//a")
+    league = breadcrumb[3].text
+    year = datetime.now().strftime('%Y')
+
+    splitLeague = re.split(' 2015| 2016| 2017| 2018| 2019', league)
+    if(len(splitLeague) > 1):
+        league = splitLeague[0]
+        year = breadcrumb[3].text[-4:]
+
+    return {
+        "Sport": breadcrumb[1].text,
+        "Region": breadcrumb[2].text,
+        "League": league,
+        "Season": year,
+        "Games": []
+    }
+
+# Get the pagination from the intial page, and create a unique list of the other pages from the same season
+def get_pages(driver):
+    urls = []
+    linkElements = driver.find_elements_by_xpath("//div[@id='pagination']//a")
+
+    for link in linkElements:
+        urls.append(link.get_attribute('href'))
+    return  [x for i, x in enumerate(urls) if i == urls.index(x)] # return unique list
 
 # Get games from result overview URL
-def get_games(driver):
+def get_games(driver, urls):
     games = []
-    super15 = [
-        'https://www.oddsportal.com/rugby-union/world/super-rugby/results/#/page/3/',
-        'https://www.oddsportal.com/rugby-union/world/super-rugby/results/#/page/2/',
-        'https://www.oddsportal.com/rugby-union/world/super-rugby/results/'
-    ]
-    for l in super15:
-        driver.get(l)
+    for url in urls:
+        driver.get(url)
         gameLinks = driver.find_elements_by_xpath("//table[@id='tournamentTable']//tr[@class='odd deactivate']//td[@class='name table-participant']//a")
         for link in gameLinks:
             games.append(link.get_attribute('href'))
@@ -61,27 +85,22 @@ def get_odds(driver, url):
         "Odds": odds
     }
 
-results = {
-    "Sport": "Rugby Union",
-    "Season": 2019,
-    "League": "Super Rugby",
-    "Region": "International" ,
-    "Games": []
-}
+
+
+
 
 
 def main():
-    driver = webdriver.Chrome('chromedriver/chromedriver')
+    driver = webdriver.Chrome('chromedriver/chromedriver')    
     driver.implicitly_wait(10)
-    
-    for game in get_games(driver):
+    driver.get('https://www.oddsportal.com/rugby-union/world/super-rugby-2018/results/')
+    results = get_tournament_data(driver)
+
+    for game in get_games(driver, get_pages(driver)):
         results["Games"].append(get_odds(driver, game))
-    
-    print(json.dumps(results))
-    
+
     driver.close()
+    print(json.dumps(results))    
 
-
-
-# run!
+# Main Thread!    
 main()
