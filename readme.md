@@ -1,4 +1,4 @@
-# Oddsportal Rugby Union Historical Odds Scraper
+# Oddsportal Scraper for Ruggaz!
 
 #### Terminal
 ```
@@ -64,18 +64,25 @@ python scrape.py [result-summary-url] > output.json
 ```
 https://www.oddsportal.com/rugby-union/world/super-rugby-2016/results/
 https://www.oddsportal.com/rugby-union/world/friendly-international/results/
+https://www.oddsportal.com/rugby-union/japan/top-league/results/
 ```
 
-## Why?
-With the rugby world cup fast approaching, we are wanting to compare model predictions against historical closing lines.
+## Description
+With the rugby world cup fast approaching, we want to compare some rating models against historical closing lines.
 
 Couldn't find any historical pinnacle odds for Rugby Union. 
 
 Couldn't find any simple repositories on Github, scraping odds in general needs to be done quickly, so most were built upon Scrapy and selenium, which is overkill for this little project.
 
-## Potential Improvements
-Scraping of other markets, such as Asian Handicap, and Points totals.
-All meta information stored per record for potentially easier data processing.
+May work for other sports other than Rugby Union, but has **not** been tested.
+
+## Suggested Improvements
+- Scraping of other markets, such as Asian Handicap, and Points totals.
+- Create file, rather than piping output
+- (Potentially) All meta information stored per record for easier data processing.
+
+
+
 
 ## Notes
 - Requires Python 3.7 
@@ -84,6 +91,4 @@ All meta information stored per record for potentially easier data processing.
 - Requires chromium driver binary from [here](https://sites.google.com/a/chromium.org/chromedriver/home) installed relative to the script.
 
 # Go the **All Blacks**
-
-
-
+Happy Punting!
