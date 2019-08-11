@@ -91,7 +91,7 @@ def get_odds(driver, url):
 
 
 def main():
-    driver = webdriver.Chrome('chromedriver/chromedriver')    
+    driver = webdriver.Chrome('chromedriver')    
     driver.implicitly_wait(10)
     driver.get('https://www.oddsportal.com/rugby-union/world/super-rugby-2018/results/')
     results = get_tournament_data(driver)
