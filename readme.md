@@ -2,9 +2,10 @@
 
 With the Rugby world cup fast approaching, we need historical closing lines for testing prediction models. We couldn't find any historical pinnacle odds for Rugby Union. 
 
-We also couldn't find any simple repositories on Github, scraping odds in general needs to be done quickly, most were built ontop of Scrapy, or used parallelism, which both are overkill for this little Sunday project.
+We also couldn't find any simple repositories on Github, most were overkill for this little Sunday project. No parallelism, runs slow.
 
 May work for other sports other than Rugby Union, but has **not** been tested.
+
 
 #### Terminal
 ```
@@ -134,18 +135,45 @@ https://www.oddsportal.com/rugby-union/world/friendly-international/results/
 https://www.oddsportal.com/rugby-union/japan/top-league/results/
 ```
 
-#### Suggested Improvements
+## Suggested Improvements
 - Scraping of other markets, such as Asian Handicap, and Points totals.
 - Create file, rather than piping output
 - (Potentially) All meta information stored per record for easier data processing.
 - The League / Seaon splitter is buggy for multiple year seasons. It'll be recorded as the second year. This could be resolved with a real regex but not today.
 
-#### Notes
-- Requires Python 3.7 (Probably works with 2 also)
+## Notes
 - Only retrieves Home/Away market (h2h) odds.
 - H2h market includes extra time. The goal was to get the Pinnacle odds.
-- Requires chromium driver binary from [here](https://sites.google.com/a/chromium.org/chromedriver/home) installed relative to the script.
 
+## Get Started
+Will work on any OS and Python 3.7, requiring selenium installed and chromedriver binary in ruggaz
+```
+git clone https://github.com/carlaiau/Oddsportal-Scraper-for-Ruggaz.git ruggaz
+cd ruggaz
+python scrape https://www.oddsportal.com/rugby-union/new-zealand/mitre-10-cup/results/ > output.json
+```
 
-# Go the **All Blacks**
+## Help
+Below is for python3.7  on Mac, although will be similar for linux and Windows subsystem.
+Use a virtual environment to ensure no compatability issues. 
+```
+git clone https://github.com/carlaiau/Oddsportal-Scraper-for-Ruggaz.git ruggaz
+cd ruggaz
+python3 venv -m ruggaz
+source ruggaz/bin/activate
+pip install selenium
+curl https://chromedriver.storage.googleapis.com/76.0.3809.68/chromedriver_mac64.zip --output cd.zip
+unzip cd.zip
+rm cd.zip
+python scrape https://www.oddsportal.com/rugby-union/new-zealand/mitre-10-cup/results/ > output.json
+```
+
+If on a different OS, or this readme is out of date, you may require a different chromedriver, which is as simple as going [here](https://sites.google.com/a/chromium.org/chromedriver/home), downloading the appropriate stable release, and copying the executable/binary into rugaz. In that case ignore the curl and related commands.
+
+#### to exit the venv:
+```
+deactivate
+```
+
+## Go the **All Blacks**
 Happy Punting!
